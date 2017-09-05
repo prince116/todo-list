@@ -57,3 +57,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# Extra
+bs-config.js
+package-lock.json
+package.json
+bs-config.js
